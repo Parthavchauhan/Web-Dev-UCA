@@ -1,0 +1,34 @@
+1. Client Server Communication :-
+
+    => Client is a browser and any kind of user interface (Mobile Apps , Desktop App).
+
+    => Anyone who provide service is a server.
+
+    => 3 Level's <=
+
+        Client     <->      Server           <->     Server
+        (Browser)       ( Application               DataBase Server
+                        Server , Node js ,
+                        Logic )
+    
+
+    => SERVER
+        a. Listening Mode
+        b. Processing / Storing Data
+        c. Connectivity
+        d. Running Process
+        e. Starting a server means starting a process
+
+    => 70% we use SQL database 
+    => We use mongo Db (No SQL) when we dont know the structure of the data
+
+
+
+2. ECMA SCRIPT
+
+    -ECMAScript is the official rulebook for JavaScript.
+        JavaScript follows this rulebook to ensure it behaves the same way across all browsers and environments.
+
+
+3. Diff Tag & Element :-
+    Element is something which is rendered on the browser
